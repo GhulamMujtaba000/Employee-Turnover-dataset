@@ -34,7 +34,8 @@ Step 3
 Python script
 In case you don’t have the libraries then you must download the libraries first then run the script.
 You can also download this python file from this link= https://github.com/GhulamMujtaba000/Employee-Turnover-dataset
-Video link for more details
+
+Video link also provided for more details
 In other case if don’t understand the script then I have also created a video.
 You can also download this video from this 
 Link = https://drive.google.com/drive/folders/11Gv_gW-THMF25T6Q3IDWI_0y0c6RhA3r?usp=sharing
